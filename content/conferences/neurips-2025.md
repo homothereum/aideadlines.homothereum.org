@@ -2,7 +2,7 @@
 title: "NeurIPS 2025"
 date: 11 May 2025
 description: Abstract Submission
-expiryDate: 19 Jul 2025
+expiryDate: 7 Dec 2025
 location: San Diego, CA
 externalURL: https://neurips.cc/Conferences/2025/CallForPapers
 tags: [ "AIML" ]
